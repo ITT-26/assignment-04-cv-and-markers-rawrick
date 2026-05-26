@@ -1,0 +1,8 @@
+pyglet
+matplotlib
+numpy
+ipywidgets
+ipympl
+pillow
+opencv-contrib-python
+opencv-python
